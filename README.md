@@ -1,4 +1,4 @@
-# PETARI Documentation
+# PETARI Documentation 
 
 ## Introduction
 
@@ -100,7 +100,7 @@ All contributions to PETARI will go through a code review process to ensure code
 
 ## Community Guidelines
 
-PETARI is committed to fostering an inclusive and welcoming community. We encourage respectful and constructive communication among contributors. Please refer to our [Code of Conduct](README.md) for more information.
+PETARI is committed to fastering an inclusive and welcoming community. We encourage respectful and constructive communication among contributors. Please have a look at  our [Code of Conduct](README.md) for more information.
 
 
 ## Output Screenshot
