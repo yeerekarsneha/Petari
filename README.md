@@ -43,46 +43,51 @@ If you're new to contributing to open-source projects, don't worry! Here's how y
 
 1. **Fork the Repository**: Fork the PETARI repository to your GitHub account.
 
-2. **Clone the Repository**: Clone the forked repository to your local machine using Git.
+2. **Clone the Repository**: Get the Repository URL: Go to the repository on the platform where it is hosted (e.g., GitHub). Look for the "Clone" or "Code" button, which usually provides a URL. Copy this URL.
+
+Open Terminal or Command Prompt: Navigate to the directory where you want to clone the repository using the cd command.
+
+Clone the Repository: Use the git clone command followed by the URL you copied
+ Clone the forked repository to your local machine using Git.
 
     ```
     git clone https://github.com/your-username/Petari.git
     ```
 
-3. **Open project**: Open the project directory.
+4. **Open project**: Open the project directory.
 
     ```
     cd Petari
     ```
-4. **Create a new branch**: To create a new branch for your profile, run the following command:
+5. **Create a new branch**: To create a new branch for your profile, run the following command:
 
     ```
     git checkout -b add-profile
     ```
 
-5. **Make Changes**: Make your desired changes to the codebase or documentation.
+6. **Make Changes**: Make your desired changes to the codebase or documentation.
 
-6. **Test Your Changes**: Test your changes locally to ensure everything works as expected.
+7. **Test Your Changes**: Test your changes locally to ensure everything works as expected.
 
-7. **Add your changed files**: Add changed files to the stage by running the following command:
+8. **Add your changed files**: Add changed files to the stage by running the following command:
 
     ```
     git add .
     ```
 
-8. **Commit Your Changes**: Commit your changes with descriptive commit messages.
+9. **Commit Your Changes**: Commit your changes with descriptive commit messages.
 
     ```
     git commit -m "message"
     ```
 
-9. **Push Changes**: Push your changes to your forked repository.
+10. **Push Changes**: Push your changes to your forked repository.
 
     ```
     git push
     ```
 
-10. **Create a Pull Request**: Open a pull request from your forked repository to the main PETARI repository. Provide a clear description of your changes in the pull request. Follow these steps
+11. **Create a Pull Request**: Open a pull request from your forked repository to the main PETARI repository. Provide a clear description of your changes in the pull request. Follow these steps
     - Add the issue number, that you have been assigned[Formate:- Isuue number #(your issue number)]
     - Brief description of the changes
 
